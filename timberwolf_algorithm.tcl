@@ -1,3 +1,5 @@
+# implemention of timberwolf algorithm #
+
 # 1:
 
 set cells [get_db insts -if {.base_cell.name == "MX2X1"}]
